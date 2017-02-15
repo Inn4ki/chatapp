@@ -1,0 +1,3 @@
+<application>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+</application>
