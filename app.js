@@ -4,8 +4,8 @@ var app =  express();
 app.use(express.static("public"));
 app.use(express.static("node_modules/bootstrap/dist"));
 
-app.get("/", function (req, res) {
-    res.send("Hello World");
+app.get('/hello', function (req, res) {
+    res.render("rooms.pug");
 });
 
 app.listen(3000, function () {
