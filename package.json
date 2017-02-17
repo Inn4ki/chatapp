@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.16.1",
     "bootstrap": "^3.3.7",
     "express": "^4.13.4",
     "pug": "^2.0.0-beta11"
