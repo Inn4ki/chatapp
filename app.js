@@ -15,7 +15,7 @@ app.get('/admin/rooms', function (req, res){
     res.render("rooms", {title: "Chat Rooms"});
 });
 
-app.get('/hello', function (req, res) {
+app.get('/help', function (req, res) {
     res.render("rooms");
 });
 
