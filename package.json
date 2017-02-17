@@ -12,6 +12,9 @@
     "body-parser": "^1.16.1",
     "bootstrap": "^3.3.7",
     "express": "^4.13.4",
+    "jquery": "^2.2.1",
+    "lodash": "^4.17.4",
+    "node-uuid": "^1.4.7",
     "pug": "^2.0.0-beta11"
   }
 }
